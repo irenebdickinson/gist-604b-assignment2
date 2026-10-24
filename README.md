@@ -9,11 +9,13 @@ The skills practiced here  include map composition, coordinate reference system 
 Software Environment:
 
 QGIS Version: 
+
 4.2.3
 "Belem do Para"
 No Plugins Used
 
 Operating System:
+
 Windows 10 Home
 
 Completed Tutorials:
@@ -21,4 +23,5 @@ Completed Tutorials:
 -Making a Map
 https://www.qgistutorials.com/en/docs/3/making_a_map.html
 
-
+-Working With Projections
+https://www.qgistutorials.com/en/docs/3/working_with_projections.html
