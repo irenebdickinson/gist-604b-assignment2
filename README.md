@@ -51,6 +51,8 @@ https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html
 https://www.qgistutorials.com/en/docs/3/working_with_terrain.html
 
 
+
+
 Skills Demonstrated:
 
 -Loading vector and raster data and building a map project from scratch
@@ -82,6 +84,8 @@ Skills Demonstrated:
 -Generating hillshade and contour lines from a digital elevation model
 
 -Smoothing contour geometries and exporting vector data to KML for viewing in Google Earth
+
+
 
 
 Reflection:
