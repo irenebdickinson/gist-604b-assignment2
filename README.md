@@ -25,3 +25,45 @@ https://www.qgistutorials.com/en/docs/3/making_a_map.html
 
 -Working With Projections
 https://www.qgistutorials.com/en/docs/3/working_with_projections.html
+
+-Working With Attributes
+https://www.qgistutorials.com/en/docs/3/working_with_attributes.html
+
+-Importing Spreadsheets or CSV Files
+https://www.qgistutorials.com/en/docs/3/importing_spreadsheets_csv.html
+
+-Basic Vector Styling
+https://www.qgistutorials.com/en/docs/3/basic_vector_styling.html
+
+-Basic Raster Styling and Analysis
+https://www.qgistutorials.com/en/docs/3/raster_styling_and_analysis.html
+
+-Performing Table Joins
+https://www.qgistutorials.com/en/docs/3/performing_table_joins.html
+
+-Performing Spatial Joins
+https://www.qgistutorials.com/en/docs/3/performing_spatial_joins.html
+
+-Performing Spatial Queries
+https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html
+
+-Working With Terrain
+https://www.qgistutorials.com/en/docs/3/working_with_terrain.html
+
+Skills Demonstrated:
+
+-Loading vector and raster data and building a map project from scratch
+-Designing a map layout with a title, legend, scale bar, and north arrow, and exporting it
+-Working with coordinate reference systems (CRS), including on-the-fly reprojection and saving layers in a new projection
+-Exploring, filtering, and selecting features in the attribute table
+-Querying data with expressions and the Field Calculator
+-Importing CSV and spreadsheet data and creating point layers from coordinate columns
+-Symbolizing vector data with single, categorized, and graduated styles, and adding labels
+-Styling raster data (singleband pseudocolor, hillshade) and performing basic terrain analysis
+-Attribute table joins between spatial layers and non-spatial tables
+-Spatial joins to transfer attributes between layers based on location
+-Spatial queries to select features by their geometric relationship to other layers
+-Finding and downloading free elevation data (GMTED2010) from USGS EarthExplorer
+-Clipping a raster to an area of interest with GDAL's Clip Raster by Extent
+-Generating hillshade and contour lines from a digital elevation model
+-Smoothing contour geometries and exporting vector data to KML for viewing in Google Earth
