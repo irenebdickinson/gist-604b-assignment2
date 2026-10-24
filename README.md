@@ -50,6 +50,7 @@ https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html
 -Working With Terrain
 https://www.qgistutorials.com/en/docs/3/working_with_terrain.html
 
+
 Skills Demonstrated:
 
 -Loading vector and raster data and building a map project from scratch
@@ -81,3 +82,8 @@ Skills Demonstrated:
 -Generating hillshade and contour lines from a digital elevation model
 
 -Smoothing contour geometries and exporting vector data to KML for viewing in Google Earth
+
+
+Reflection:
+
+Completing these tutorials made spatial joins and attribute (table) joins much clearer to me. The step-by-step instructions showed how an attribute join links a layer to a table through a shared field, while a spatial join connects features based on where they are located, and seeing both results in the attribute table made the difference concrete. The main challenge was that the version of QGIS I used did not always match the version shown in the tutorials, so some menus, tool names, and dialog layouts looked different from the screenshots. This caused a few small errors, and I had to search the Processing Toolbox or find where a setting had moved in order to finish those steps. Working through those differences taught me to understand what each tool does instead of only following the instructions click by click. I anticipate using these skills in future GIS positions that I may have. The terrain tutorial will especially be helpful with my anticipated area of interest in conservation related GIS. 
